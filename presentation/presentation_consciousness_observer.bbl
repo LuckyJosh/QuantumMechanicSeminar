@@ -153,6 +153,129 @@
       \verb quant-ph/9907009v2
       \endverb
     \endentry
+    \entry{microtubule}{online}{}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild:Mirkrotubuli}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://de.wikipedia.org/wiki/Mikrotubulus#/media/File:FluorescentCells.jpg
+      \endverb
+    \endentry
+    \entry{microtubule_structure}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b955f46aca26cd44e77aad5a5c732836}{(www.scistyle.com)}{(\bibinitperiod}{By\bibnamedelima Thomas\bibnamedelima Splettstoesser}{B\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b955f46aca26cd44e77aad5a5c732836}
+      \strng{fullhash}{b955f46aca26cd44e77aad5a5c732836}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild:Mirkrotubulus Struktur}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Microtubule#/media/File:Microtubule_structure.png
+      \endverb
+    \endentry
+    \entry{pic_stone}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e7a954fd01c4d760ffeff9c1499a7e5d}{EvanS}{E\bibinitperiod}{By}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e7a954fd01c4d760ffeff9c1499a7e5d}
+      \strng{fullhash}{e7a954fd01c4d760ffeff9c1499a7e5d}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild: Felsen}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Rock_(geology)#/media/File:Balanced_Rock.jpg
+      \endverb
+    \endentry
+    \entry{pic_water_droplet}{online}{}
+      \name{author}{1}{}{%
+        {{hash=748b117641e00086ad92aa9b85a29c01}{Fir0002/Flagstaffotos}{F\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{748b117641e00086ad92aa9b85a29c01}
+      \strng{fullhash}{748b117641e00086ad92aa9b85a29c01}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Wassertropfen}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Water#/media/File:Water_droplet_blue_bg05.jpg
+      \endverb
+    \endentry
+    \entry{steam_eruption}{online}{}
+      \name{author}{1}{}{%
+        {{hash=1ab8c4c4434fd684dce1c3d2f4aea74f}{Inaglory}{I\bibinitperiod}{By\bibnamedelima Brocken}{B\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1ab8c4c4434fd684dce1c3d2f4aea74f}
+      \strng{fullhash}{1ab8c4c4434fd684dce1c3d2f4aea74f}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild:Wasserdampf}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Steam#/media/File:Steam_phase_eruption_of_Castle_Geyser.jpg
+      \endverb
+    \endentry
+    \entry{lightning_teslacoil}{online}{}
+      \name{author}{1}{}{%
+        {{hash=988998949e695a2d0f36a7c328b25765}{Grohmann}{G\bibinitperiod}{By\bibnamedelima Daniel}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{988998949e695a2d0f36a7c328b25765}
+      \strng{fullhash}{988998949e695a2d0f36a7c328b25765}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild:Entladung Tesla Spule}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Tesla_coil#/media/File:Tesla_coil_(discharge)..JPG
+      \endverb
+    \endentry
+    \entry{Tononi_08}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f9ce8131c11c545dbdc50a80a8ddd9e1}{Tononi}{T\bibinitperiod}{Giulio}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9ce8131c11c545dbdc50a80a8ddd9e1}
+      \strng{fullhash}{f9ce8131c11c545dbdc50a80a8ddd9e1}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biol. Bull.}
+      \field{title}{Consciousness as Integrated Information: a Provisional Manifesto}
+      \field{urlday}{29}
+      \field{urlmonth}{06}
+      \field{urlyear}{2016}
+      \field{volume}{215}
+      \field{year}{2008}
+      \verb{url}
+      \verb http://www.biolbull.org/content/215/3/216.full
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

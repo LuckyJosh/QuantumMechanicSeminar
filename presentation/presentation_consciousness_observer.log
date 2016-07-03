@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  3 JUL 2016 05:50
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  3 JUL 2016 17:53
  restricted \write18 enabled.
 **presentation_consciousness_observer.tex
 (./presentation_consciousness_observer.tex
@@ -879,8 +879,6 @@ Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/blx-dm.def)
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric-verb.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count269
@@ -974,11 +972,6 @@ File: biblatex.def
 \c@biburllcpenalty=\count340
 \c@smartand=\count341
 )
-Package biblatex Info: Trying to load bibliography style 'numeric-verb'...
-Package biblatex Info: ... file 'numeric-verb.bbx' found.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/bbx/numeric-verb.bbx
-File: numeric-verb.bbx 2015/10/21 v3.1 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
@@ -991,22 +984,23 @@ Package biblatex Info: ... file 'standard.bbx' found.
 File: standard.bbx 2015/10/21 v3.1 biblatex bibliography style (PK/JW/AB)
 \c@bbx:relatedcount=\count342
 \c@bbx:relatedtotal=\count343
-)))
-Package biblatex Info: Trying to load citation style 'numeric-verb'...
-Package biblatex Info: ... file 'numeric-verb.cbx' found.
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/numeric-verb.cbx
-File: numeric-verb.cbx 2015/10/21 v3.1 biblatex citation style (PK/JW/AB)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2015/10/21 v3.1 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\smartcites'.
-Package biblatex Info: Redefining '\textcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -2789,7 +2783,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.093 seconds)
+luaotfload | main : initialization completed in 0.097 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count444
 \l_fontspec_language_int=\count445
@@ -4409,27 +4403,169 @@ Overfull \hbox (26.489pt too wide) in paragraph at lines 45--45
 <./graphics/neuron_schematic.jpg>]) (./contents/decoherance_neuron.tex
 [24
 
-]) [25
+] <graphics/decoherance_timescales.jpg, id=232, 775.89874pt x 263.98625pt>
+File: graphics/decoherance_timescales.jpg Graphic file (type jpg)
 
-] (./contents/concsciousness_statematter.tex [26
+<use graphics/decoherance_timescales.jpg>
+Package pdftex.def Info: graphics/decoherance_timescales.jpg used on input line 
+46.
+(pdftex.def)             Requested size: 178.45296pt x 60.71555pt.
 
-]) [27
+Overfull \vbox (2.4443pt too high) detected at line 46
+ []
 
-] [28
+[25
+
+<./graphics/decoherance_timescales.jpg>]
+<graphics/FluorescentCells.jpg, id=240, 513.92pt x 513.92pt>
+File: graphics/FluorescentCells.jpg Graphic file (type jpg)
+
+<use graphics/FluorescentCells.jpg>
+Package pdftex.def Info: graphics/FluorescentCells.jpg used on input line 46.
+(pdftex.def)             Requested size: 102.78217pt x 102.78217pt.
+
+<graphics/Microtubule_structure.png, id=242, 2208.25pt x 1559.8275pt>
+File: graphics/Microtubule_structure.png Graphic file (type png)
+
+<use graphics/Microtubule_structure.png>
+Package pdftex.def Info: graphics/Microtubule_structure.png used on input line 4
+6.
+(pdftex.def)             Requested size: 154.59329pt x 109.19908pt.
+
+Overfull \hbox (6.78337pt too wide) in paragraph at lines 46--46
+ [][][]\EU2/SourceSansPro(1)/m/n/12 [[]11[]] 
+ []
+
+[26
+
+<./graphics/FluorescentCells.jpg><./graphics/Microtubule_structure.png>])
+[27
+
+] (./contents/concsciousness_statematter.tex
+<graphics/states_of_matter.jpg, id=259, 1027.84pt x 1027.84pt>
+File: graphics/states_of_matter.jpg Graphic file (type jpg)
+
+<use graphics/states_of_matter.jpg>
+Package pdftex.def Info: graphics/states_of_matter.jpg used on input line 18.
+(pdftex.def)             Requested size: 154.16934pt x 154.16934pt.
+
+Overfull \hbox (15.88985pt too wide) in paragraph at lines 18--18
+ [][][] 
+ []
+
+[28
+
+<./graphics/states_of_matter.jpg>]) (./contents/perceptronium_properties.tex
+luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 25.
+
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 7.01247pt on input line 25.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(1)/m/n' will be
+(Font)              scaled to size 4.9808pt on input line 25.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 7.01224pt on input line 25.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+LaTeX Font Info:    Font shape `EU2/LatinModernMath(2)/m/n' will be
+(Font)              scaled to size 4.98067pt on input line 25.
+luaotfload | load : Lookup/name: "LatinModernMath" -> "latinmodern-math.otf"
+luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
+luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
+LaTeX Font Info:    Font shape `EU2/SourceCodePro(1)/m/n' will be
+(Font)              scaled to size 6.29652pt on input line 25.
+luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf"
+LaTeX Font Info:    Font shape `EU2/SourceCodePro(1)/m/n' will be
+(Font)              scaled to size 4.47229pt on input line 25.
+luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf"
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 25.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 25.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 25.
+
+[29
+
+]) (./contents/integrated_information.tex
+<graphics/qrcode_whole.jpg, id=282, 822.272pt x 822.272pt>
+File: graphics/qrcode_whole.jpg Graphic file (type jpg)
+
+<use graphics/qrcode_whole.jpg>
+Package pdftex.def Info: graphics/qrcode_whole.jpg used on input line 42.
+(pdftex.def)             Requested size: 115.1173pt x 115.1173pt.
+ [30
+
+<./graphics/qrcode_whole.jpg>]
+<graphics/qrcode_damaged.jpg, id=288, 822.272pt x 822.272pt>
+File: graphics/qrcode_damaged.jpg Graphic file (type jpg)
+
+<use graphics/qrcode_damaged.jpg>
+Package pdftex.def Info: graphics/qrcode_damaged.jpg used on input line 42.
+(pdftex.def)             Requested size: 115.1173pt x 115.1173pt.
+ [31
+
+<./graphics/qrcode_damaged.jpg>]
+<graphics/integrated_information_graph.jpg, id=295, 1136.245pt x 610.28pt>
+File: graphics/integrated_information_graph.jpg Graphic file (type jpg)
+
+<use graphics/integrated_information_graph.jpg>
+Package pdftex.def Info: graphics/integrated_information_graph.jpg used on input
+ line 42.
+(pdftex.def)             Requested size: 147.71703pt x 79.33917pt.
+
+Overfull \hbox (6.14996pt too wide) in paragraph at lines 42--42
+ []\EU2/SourceSansPro(1)/m/n/10.95 [[]7[]] 
+ []
+
+[32
+
+<./graphics/integrated_information_graph.jpg>]
+<graphics/egg_crate_potentials.jpg, id=304, 786.94pt x 655.44875pt>
+File: graphics/egg_crate_potentials.jpg Graphic file (type jpg)
+
+<use graphics/egg_crate_potentials.jpg>
+Package pdftex.def Info: graphics/egg_crate_potentials.jpg used on input line 42
+.
+(pdftex.def)             Requested size: 141.64308pt x 117.97568pt.
+
+Overfull \hbox (1.9014pt too wide) in paragraph at lines 42--42
+ [][][]\EU2/SourceSansPro(1)/m/n/10.95 [[]7[]] 
+ []
+
+[33
+
+<./graphics/egg_crate_potentials.jpg>]) (./contents/integration_problems.tex [3
+4
+
+]) [35
+
+] [36
 
 ]
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-RegularIt.otf
 "
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
 LaTeX Font Info:    Font shape `EU2/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.8322pt on input line 73.
-luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [29
+(Font)              scaled to size 9.8322pt on input line 78.
+luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [37
 
-]
-[30
+] [38
 
 
-] [31
+] [39
+
+
+] [40
+
+
+] [41
 
 
 ]
@@ -4444,11 +4580,11 @@ luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" 
 \openout10 = presentation_consciousness_observer.snm
  
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
 (./presentation_consciousness_observer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `presentation_consciousness_observer.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 04799EBFA860AF03755B6AA7FA654DFD;386.
@@ -4456,20 +4592,20 @@ Package logreq Info: Writing requests to 'presentation_consciousness_observer.ru
 n.xml'.
 
 \openout1 = presentation_consciousness_observer.run.xml
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
 )
 
 Here is how much of LuaTeX's memory you used:
- 57186 strings out of 494897
+ 57388 strings out of 494897
  125200,1977958 words of node,token memory allocated
- 5290 words of node memory still in use:
-   47 hlist, 9 vlist, 3 rule, 14 disc, 2 math, 152 glue, 18 kern, 18 penalty, 13
-7 glyph, 330 attribute, 110 glue_spec, 330 attribute_list, 10 action, 4 write, 3
+ 6063 words of node memory still in use:
+   47 hlist, 9 vlist, 3 rule, 21 disc, 2 math, 170 glue, 23 kern, 26 penalty, 20
+2 glyph, 335 attribute, 126 glue_spec, 335 attribute_list, 16 action, 4 write, 3
  local_par, 204 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_dest, 40 pd
 f_colorstack nodes
-   avail lists: 1:17,2:877,3:1554,4:1257,5:177,6:1528,7:33,8:32,9:534,10:144
- 58261 multiletter control sequences out of 65536+600000
- 126 fonts using 31740487 bytes
+   avail lists: 1:15,2:1147,3:1630,4:1801,5:202,6:2519,7:36,8:46,9:534,10:149
+ 58352 multiletter control sequences out of 65536+600000
+ 145 fonts using 37748639 bytes
  63i,22n,116p,1247b,1600s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCod
 ePro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/source
@@ -4482,11 +4618,11 @@ local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-B
 old.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/S
 ourceSansPro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adob
 e/sourcesanspro/SourceSansPro-Light.otf>
-Output written on presentation_consciousness_observer.pdf (31 pages, 4887227 byt
+Output written on presentation_consciousness_observer.pdf (41 pages, 8119923 byt
 es).
 
-PDF statistics: 358 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 80 named destinations out of 1000 (max. 131072)
+PDF statistics: 460 PDF objects out of 1000 (max. 8388607)
+ 359 compressed objects within 4 object streams
+ 107 named destinations out of 1000 (max. 131072)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
