@@ -1,0 +1,219 @@
+[file]
+presentation_safety.pdf
+[font_size]
+10233
+[notes]
+### 1
+- Sicherheitskonzepte
+
+- allgemeine Sicherheitsbemühungen
+
+- Planung und Betrieb### 2
+- Zitat; bekannt als Murphys Gesetz
+
+- Vor Bearbeitung
+
+- menschengemachte geht irgendwann kaputt### 3
+- 1 : Ziele, Sicherheitskonzept
+
+- 2&3 
+
+- 4 
+
+- 5: Anschluss, letzte Woche 
+
+- 6: allgemein -> speziell
+ 
+- 7&8: Kontrolle; Sicherheit### 4
+- Zusammenfassung; Ziele
+
+- 1: höchste Priorität
+
+- 2&3: gegenseitige Bedingung### 5
+- Regelwerkspyramide
+
+- Regelungen & Gesetze: v.o.n.u.
+
+- Bsp: 5. Sicherheitsanforderungen: 
+	- 2015; ~100 Seiten + ~60 Seiten Interpretation
+
+- Überblick; Ministerien, Behörden, etc.
+
+BMUB: Bundesministerium für Umwelt, Naturschutz Bau und 
+		Reaktorsicherheit
+(KAT: Kerntechnischer Ausschuss)
+(RSK: Reaktorsicherheitskomission)### 6
++ Beispiel; Definition; Sicherheitsanforderungen
+
+- Keine Betriebszustände (Arlamstufe Rot)
+
+- Planungs-/Betriebskonzept
+
+- 1: Verh. Störungen: Qualität
+
+- 2: Beh. Störungen, Verh. Störfall: Fehler;  Belastbarkeit
+
+- 3: Beh. Störfall: Auslegungsstörfälle; Ersatz GAU
+
+- 4: Mehrfachversagen; Kernschaden: auslegungsüberschreitend
+	"Super-GAU"### 7
++ 1/3
+- hermetischer Einschluss; Abschirmung
+- v. i. n. a
+
+- 1: Großteil;Spaltprodukete; gasförmig
+
+- 2: fest;gasförmig -> 1&2: gefährlich unmöglich
+
+- 3: Stahl(20-25cm); Kühlmittel; Spaltprodukte
+
+- 4: Abschirmung Gamma (-> Wärme)
+
+- 5: Stahl/Beton(4cm); gasdicht,druckfest
+      Kern&Primärkeislauf
+
+- 6: Stahlbeton(ca. 2m); druckfest (8bar);
+       H2-Explosion; SEWD  
+	   
+### 8
++ 2/3
+
+- Grenzwert; Temp/Leist; negative Rückkopplung;
+
+- physikalisch
+
+- aktiv
+
+- Erinnerung; SWR/DWR### 9
++ 3/3
+
+- 1: Kühlsysteme 1/3, 2/4
+
+- 2: Steuerstäbe; Bor
+
+- 3: Feuer; Explosion; Notstrom; Erdbeben; Gebäude
+
+- 4: Stromausfall: Hydraulik (SWR); Magnet (DWR)
+
+- 5: Personal; elek. System; 30min; Zeitdruck; Fehler
+
+- 6: Stromausfall: Notstrom; Strom&Kraftstoff### 10
++ Mensch&Umwelt: Errinnerung
+ 
+- Grenzwerte; Gelände: 1; Containment: 3
+
+
+- Strom v.a.n.i
+
+- Emissionen
+
+- Kontrolle;Pflanzen
+
+- Brennstoff
+### 11
++ allgemein -> spezifisch 
+
+- scram
+### 12
+- Achsen; t_0
+
+- Unterschrift 
+
+- Redundanz& Diversität
+
+- 1: Reaktor
+  3: Primär...pumpen
+  5: Borwasserbecken
+
+- physikalisch; bemerkenswert### 13
++ Diskussion; GEN4; Natrium
+
+- Containment; 
+
+- Verdränung: Sauerstoff
+### 14
++ allgemein&spezifisch; Konzepte; Einrichtung -> Kontrolle
+
+
+- Orientierung: Dringlichkeit
+
+- Bsp: Kühlsystem  3/4 (N); 2/4 (E); 1/4 (S)
+### 15
+- Orientierung: Folgen
+
+- konzeptionell; log (Richterskala)
+
+- ohne Auswirkung
+
+- Betroffen
+
+1) Tschernobyl: 7/1
+2) ThreeMilesIsland(Brand->Kernschaden): 5/2 
+3) Vandellos(Brand->Sicherheitseinrich.): 3/3### 16
+- Einführung INES
+
+- INES: v.o.n.u.
+
+- S / 2: 3;  < 0.1%### 17
+- Gestzlich
+
+- Ergebnisvergleich
+
+- aufteilen
+
+- determ: Spetrum; Vorgabe
+
+- prob: Häufigkeit; stat. Modelle### 18
+- wichtig; Information
+
+- hermetisch
+
+- physikalisch
+
+- Ernstfall: jeglicher
+### 19
+- begonnen:
+
+- Konzepte;Vorbeitung
+
+- Sicherheit; Murphys Gesetz### 20
++
+- Okt 15
+
+- Datum; Anlage
+- Beschreibung; Bewertung
+
+- Detaliert;Begründung
+
+- Jahr 14
+- Zusammenfassung
+- Statistik### 21
+- 1&2: Vorschrift
+
+- Berechnung: komplex
+
+- Ereignisbaum: P(Ereignis) - Sicherheitseinrichtungen -> P(Folge)
+
+- Fehlerbaum: P(Fehlfunktion)
+
+- Störungen(Daten), Menschen(Simulation)
+
+- Kernschadenshäuf: 90% Sicher: 1:10e5 - 1:10e6 pro Jahr
+  mittel: 1:2*10e5
+
+### 22
+- v. l. n. r. Ereignis -> Folge 
+- KKW: Abgeschaltet
+- Stromausfall max. 2h 
+- Funktion / Fehlfunktion
+- Pfad -> Kernschadenshäuf.
+
+- v. u. n. o. Fehlfunktion -> Folge
+- Pfad: P(Ausfall)### 23
+- 1: Druckunregelmäßigkeit; Undicht
+
+- 2: Sicherheitsventil: Verschlossen (menschlich)
+
+- 3: Füllstandausgleich => 4
+
+- 4: Borkonzentration

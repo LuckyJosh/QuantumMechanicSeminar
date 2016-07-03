@@ -1,0 +1,75 @@
+\input{content/LatexPreamble}
+\newcommand{\Quote}[1]{\enquote{\emph{#1}}}
+\newcommand{\altemph}[2]{\alt<#2>{\bfseries#1}{#1}}
+%\newcommand{\ac}[2]{\textcolor{}}
+
+\linespread{1.1}
+%\parskip{2em}
+
+%\setbeameroption{show notes} %un-comment to see the notes
+
+\makeatletter
+\def\beamer@framenotesbegin{% at beginning of slide
+	\gdef\beamer@noteitems{}%
+	\gdef\beamer@notes{{}}% used to be totally empty.
+}
+\makeatother
+
+
+
+\title{Beobachter und Bewusstsein}
+%\subtitle{A clean, basic beamer theme}
+\date{\today}
+\author{Joshua Luckey}
+\institute{TU Dortmund}
+
+\begin{document}
+	
+	\maketitle
+	
+	%\input{content/intro_quote}
+	
+	\begin{frame}{Inhalt}
+		\tableofcontents%[hideallsubsections]
+	\end{frame}
+	
+	
+	\section{Was sind Beobachter und Bewusstsein?}
+		\separatorslide
+		\input{contents/what_is_observer}
+		\input{contents/what_is_consciousness}
+	
+	\section{Betrachtung und Probleme in der Physik}
+		\separatorslide
+		\input{contents/problems_observer}
+		\input{contents/problems_consciousness}
+		
+	\section{Beobachter als Teilsystem}
+		\separatorslide
+		\input{contents/subsystems}
+		\input{contents/exsample_object}
+		\input{contents/exsample_subject}
+		\input{contents/implications}
+		
+		
+	\section{Dekohärenz von Gehirnprozessen}
+		\separatorslide
+		\input{contents/superposition_neuron}
+		\input{contents/decoherance_neuron}
+				
+	\section{Bewusstsein als Aggregatzustand}
+		\separatorslide
+		\input{contents/concsciousness_statematter}
+	
+	\section{Zusammenfassung}
+		\separatorslide
+	
+	\section*{Quellen}
+	\separatorslide
+	
+	%\nocite{GRS,INES_Manual,bmud,BFS,kernenergieDE,wikiRS}
+	\begin{frame}[allowframebreaks]{Quellen}
+		\printbibliography
+	\end{frame}
+
+\end{document}
