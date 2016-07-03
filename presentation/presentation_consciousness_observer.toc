@@ -7,5 +7,5 @@
 \beamer@sectionintoc {2}{Betrachtung und Probleme in der Physik}{8}{0}{2}
 \beamer@sectionintoc {3}{Beobachter als Teilsystem}{11}{0}{3}
 \beamer@sectionintoc {4}{Dekohärenz von Gehirnprozessen}{21}{0}{4}
-\beamer@sectionintoc {5}{Bewusstsein als Aggregatzustand}{23}{0}{5}
-\beamer@sectionintoc {6}{Zusammenfassung}{25}{0}{6}
+\beamer@sectionintoc {5}{Bewusstsein als Aggregatzustand}{25}{0}{5}
+\beamer@sectionintoc {6}{Zusammenfassung}{27}{0}{6}

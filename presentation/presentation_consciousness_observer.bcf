@@ -2225,6 +2225,8 @@
     <bcf:citekey order="8">Chalmers_95</bcf:citekey>
     <bcf:citekey order="9">Tegmark_15_long</bcf:citekey>
     <bcf:citekey order="10">Tegmark_15_long</bcf:citekey>
+    <bcf:citekey order="11">neurons</bcf:citekey>
+    <bcf:citekey order="12">Tegmark_99</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">
   <bcf:sorting>

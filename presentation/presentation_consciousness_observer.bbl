@@ -117,6 +117,42 @@
       \verb 1401.1219v3
       \endverb
     \endentry
+    \entry{neurons}{online}{}
+      \name{author}{1}{}{%
+        {{hash=dd14be611857c002d1bf8d3dbb11810e}{-\bibnamedelima http://brainmaps.org}{\bibinithyphendelim \bibinithyphendelim \bibinitperiod\bibinitdelim h\bibinitperiod}{UC\bibnamedelima Regents\bibnamedelima Davis}{U\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod}{campus}{c\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{dd14be611857c002d1bf8d3dbb11810e}
+      \strng{fullhash}{dd14be611857c002d1bf8d3dbb11810e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{06}
+      \field{title}{Bild:Neuronen}
+      \field{year}{2016}
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Neuron#/media/File:Smi32neuron.jpg
+      \endverb
+    \endentry
+    \entry{Tegmark_99}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b9b3c445e1013a97fc6318e06799b37b}{Tegmark}{T\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b9b3c445e1013a97fc6318e06799b37b}
+      \strng{fullhash}{b9b3c445e1013a97fc6318e06799b37b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ArXiv e-prints}
+      \field{title}{The Importance of Quantum Decoherence in Brain Processes}
+      \field{year}{1999}
+      \verb{eprint}
+      \verb quant-ph/9907009v2
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

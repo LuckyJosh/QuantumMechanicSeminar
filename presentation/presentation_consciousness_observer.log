@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  3 JUL 2016 04:50
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  3 JUL 2016 05:50
  restricted \write18 enabled.
 **presentation_consciousness_observer.tex
 (./presentation_consciousness_observer.tex
@@ -2789,7 +2789,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.092 seconds)
+luaotfload | main : initialization completed in 0.093 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count444
 \l_fontspec_language_int=\count445
@@ -4375,22 +4375,47 @@ Package pdftex.def Info: graphics/subsystem_example_2_3.jpg used on input line 5
 
 ]
 (./contents/superposition_neuron.tex
-File: graphics/subsystem_example_1_4.jpg Graphic file (type jpg)
- <use graphics/subsystem_example_1_4.jpg>
-Package pdftex.def Info: graphics/subsystem_example_1_4.jpg used on input line 2
-2.
-(pdftex.def)             Requested size: 80.80307pt x 81.15439pt.
+<graphics/neuron.jpg, id=208, 157.0668pt x 130.086pt>
+File: graphics/neuron.jpg Graphic file (type jpg)
 
-[22
+<use graphics/neuron.jpg>
+Package pdftex.def Info: graphics/neuron.jpg used on input line 45.
+(pdftex.def)             Requested size: 125.6536pt x 104.06892pt.
 
-]) (./contents/decoherance_neuron.tex) [23
+Overfull \hbox (16.64278pt too wide) in paragraph at lines 45--45
+ [][][]\EU2/SourceSansPro(1)/m/n/10.95 [[]8[]] 
+ []
 
-]
-(./contents/concsciousness_statematter.tex [24
+luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf" [22
+
+<./graphics/neuron.jpg>]
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 45--45
+[]  
+ []
+
+<graphics/neuron_schematic.jpg, id=218, 915.42pt x 638.385pt>
+File: graphics/neuron_schematic.jpg Graphic file (type jpg)
+
+<use graphics/neuron_schematic.jpg>
+Package pdftex.def Info: graphics/neuron_schematic.jpg used on input line 45.
+(pdftex.def)             Requested size: 164.7685pt x 114.90433pt.
+
+Overfull \hbox (26.489pt too wide) in paragraph at lines 45--45
+ [][][] 
+ []
+
+[23
+
+<./graphics/neuron_schematic.jpg>]) (./contents/decoherance_neuron.tex
+[24
 
 ]) [25
 
-] [26
+] (./contents/concsciousness_statematter.tex [26
+
+]) [27
+
+] [28
 
 ]
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-RegularIt.otf
@@ -4398,9 +4423,13 @@ luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-RegularIt.otf
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
 LaTeX Font Info:    Font shape `EU2/SourceCodePro(0)/m/n' will be
 (Font)              scaled to size 9.8322pt on input line 73.
-luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [27
+luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [29
 
-] [28
+]
+[30
+
+
+] [31
 
 
 ]
@@ -4413,8 +4442,7 @@ luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" 
 \tf@snm=\write10
 
 \openout10 = presentation_consciousness_observer.snm
-
-
+ 
 AED: lastpage setting LastPage
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
@@ -4432,32 +4460,33 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
 )
 
 Here is how much of LuaTeX's memory you used:
- 57152 strings out of 494897
+ 57186 strings out of 494897
  125200,1977958 words of node,token memory allocated
- 8067 words of node memory still in use:
-   56 hlist, 9 vlist, 3 rule, 28 disc, 6 math, 231 glue, 32 kern, 45 penalty, 38
-0 glyph, 398 attribute, 166 glue_spec, 398 attribute_list, 10 action, 4 write, 5
- local_par, 204 pdf_literal, 3 pdf_start_link, 3 pdf_end_link, 3 pdf_dest, 64 pd
+ 5290 words of node memory still in use:
+   47 hlist, 9 vlist, 3 rule, 14 disc, 2 math, 152 glue, 18 kern, 18 penalty, 13
+7 glyph, 330 attribute, 110 glue_spec, 330 attribute_list, 10 action, 4 write, 3
+ local_par, 204 pdf_literal, 1 pdf_start_link, 1 pdf_end_link, 1 pdf_dest, 40 pd
 f_colorstack nodes
-   avail lists: 1:17,2:662,3:1495,4:1120,5:157,6:992,7:33,8:24,9:525,10:130
- 58242 multiletter control sequences out of 65536+600000
- 125 fonts using 31445139 bytes
+   avail lists: 1:17,2:877,3:1554,4:1257,5:177,6:1528,7:33,8:32,9:534,10:144
+ 58261 multiletter control sequences out of 65536+600000
+ 126 fonts using 31740487 bytes
  63i,22n,116p,1247b,1600s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCod
-ePro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm-ma
-th/latinmodern-math.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/publi
-c/lm-math/latinmodern-math.otf></usr/local/texlive/2015/texmf-dist/fonts/opentyp
-e/public/lm-math/latinmodern-math.otf></usr/local/texlive/2015/texmf-dist/fonts/
-opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf></usr/local/texlive/201
-5/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf></usr/loc
-al/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regu
-lar.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/S
-ourceSansPro-Light.otf>
-Output written on presentation_consciousness_observer.pdf (28 pages, 4548457 byt
+ePro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/source
+sanspro/SourceSansPro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/open
+type/public/lm-math/latinmodern-math.otf></usr/local/texlive/2015/texmf-dist/fon
+ts/opentype/public/lm-math/latinmodern-math.otf></usr/local/texlive/2015/texmf-d
+ist/fonts/opentype/public/lm-math/latinmodern-math.otf></usr/local/texlive/2015/
+texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-RegularIt.otf></usr/
+local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-B
+old.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro/S
+ourceSansPro-Regular.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adob
+e/sourcesanspro/SourceSansPro-Light.otf>
+Output written on presentation_consciousness_observer.pdf (31 pages, 4887227 byt
 es).
 
-PDF statistics: 322 PDF objects out of 1000 (max. 8388607)
- 248 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 131072)
+PDF statistics: 358 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
+ 80 named destinations out of 1000 (max. 131072)
  75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
