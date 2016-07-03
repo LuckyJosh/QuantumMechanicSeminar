@@ -276,6 +276,24 @@
       \verb http://www.biolbull.org/content/215/3/216.full
       \endverb
     \endentry
+    \entry{Zurek_01}{article}{}
+      \name{author}{1}{}{%
+        {{hash=85c0239ce46ed365c648e10700fdad8e}{Zurek}{Z\bibinitperiod}{Wojciech\bibnamedelima H.}{W\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{85c0239ce46ed365c648e10700fdad8e}
+      \strng{fullhash}{85c0239ce46ed365c648e10700fdad8e}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ArXiv e-prints}
+      \field{title}{Information transfer in quantum measurements: irreversibility and amplification}
+      \field{year}{2001}
+      \verb{eprint}
+      \verb quant-ph/0111137
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

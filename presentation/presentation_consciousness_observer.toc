@@ -8,4 +8,4 @@
 \beamer@sectionintoc {3}{Beobachter als Teilsystem}{11}{0}{3}
 \beamer@sectionintoc {4}{Dekohärenz von Gehirnprozessen}{21}{0}{4}
 \beamer@sectionintoc {5}{Bewusstsein als Aggregatzustand}{27}{0}{5}
-\beamer@sectionintoc {6}{Zusammenfassung}{35}{0}{6}
+\beamer@sectionintoc {6}{Zusammenfassung}{48}{0}{6}
