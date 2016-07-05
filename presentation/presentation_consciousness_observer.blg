@@ -1,15 +1,15 @@
-[0] Config.pm:327> INFO - This is Biber 2.2
+[1] Config.pm:327> INFO - This is Biber 2.2
 [1] Config.pm:330> INFO - Logfile is 'presentation_consciousness_observer.blg'
-[80] biber:286> INFO - === Mo Jul  4, 2016, 00:21:35
-[80] Biber.pm:334> INFO - Reading 'presentation_consciousness_observer.bcf'
-[273] Biber.pm:677> INFO - Found 17 citekeys in bib section 0
-[307] Biber.pm:3054> INFO - Processing section 0
-[334] Biber.pm:3193> INFO - Looking for bibtex format file 'sources.bib' for section 0
-[337] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[338] bibtex.pm:935> INFO - Found BibTeX data source 'sources.bib'
-[774] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[774] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[774] Biber.pm:2931> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'de-DE'
-[775] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
-[813] bbl.pm:505> INFO - Writing 'presentation_consciousness_observer.bbl' with encoding 'UTF-8'
-[816] bbl.pm:596> INFO - Output to presentation_consciousness_observer.bbl
+[79] biber:286> INFO - === Di Jul  5, 2016, 14:20:42
+[79] Biber.pm:334> INFO - Reading 'presentation_consciousness_observer.bcf'
+[264] Biber.pm:677> INFO - Found 18 citekeys in bib section 0
+[296] Biber.pm:3054> INFO - Processing section 0
+[323] Biber.pm:3193> INFO - Looking for bibtex format file 'sources.bib' for section 0
+[325] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[326] bibtex.pm:935> INFO - Found BibTeX data source 'sources.bib'
+[767] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[767] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[767] Biber.pm:2931> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'de-DE'
+[767] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
+[801] bbl.pm:505> INFO - Writing 'presentation_consciousness_observer.bbl' with encoding 'UTF-8'
+[805] bbl.pm:596> INFO - Output to presentation_consciousness_observer.bbl
