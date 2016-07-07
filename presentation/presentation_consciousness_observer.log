@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  6 JUL 2016 22:35
+This is LuaTeX, Version beta-0.80.0 (TeX Live 2015) (rev 5238)  (format=lualatex 2015.11.24)  7 JUL 2016 07:38
  restricted \write18 enabled.
 **presentation_consciousness_observer.tex
 (./presentation_consciousness_observer.tex
@@ -2783,7 +2783,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.093 seconds)
+luaotfload | main : initialization completed in 0.095 seconds)
 Lua module: fontspec 2013/05/20 2.3c Advanced font selection for LuaLaTeX.
 \l_fontspec_script_int=\count444
 \l_fontspec_language_int=\count445
@@ -4248,6 +4248,8 @@ LaTeX Font Info:    Font shape `EU2/SourceCodePro(1)/m/n' will be
 luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf"
 [12
 
+]) (./contents/implications.tex [13
+
 ]) (./contents/exsample_object.tex
 \0.30196 0.28039 0.25882 rg 0.30196 0.28039 0.25882 RG12tikzsymbols@savebox@Smil
 ey1none=\box99
@@ -4256,7 +4258,7 @@ rey1none=\box100
 \0.30196 0.28039 0.25882 rg 0.30196 0.28039 0.25882 RG12tikzsymbols@savebox@Sade
 y1none=\box101
 
-<graphics/subsystem_example_1_1.jpg, id=153, 236.885pt x 237.88875pt>
+<graphics/subsystem_example_1_1.jpg, id=159, 236.885pt x 237.88875pt>
 File: graphics/subsystem_example_1_1.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_1_1.jpg>
@@ -4294,41 +4296,41 @@ LaTeX Font Info:    Font shape `EU2/SourceCodePro(1)/m/n' will be
 luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf"
 LaTeX Font Info:    Font shape `EU2/SourceCodePro(1)/m/n' will be
 (Font)              scaled to size 6.28543pt on input line 97.
-luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [13
+luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [14
 
 <./graphics/subsystem_example_1_1.jpg>] <graphics/subsystem_example_1_2.jpg, id
-=160, 236.885pt x 235.88126pt>
+=165, 236.885pt x 235.88126pt>
 File: graphics/subsystem_example_1_2.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_1_2.jpg>
 Package pdftex.def Info: graphics/subsystem_example_1_2.jpg used on input line 9
 7.
 (pdftex.def)             Requested size: 82.91098pt x 82.55966pt.
- [14
+ [15
 
 <./graphics/subsystem_example_1_2.jpg>] <graphics/subsystem_example_1_3.jpg, id
-=166, 232.87pt x 230.8625pt>
+=171, 232.87pt x 230.8625pt>
 File: graphics/subsystem_example_1_3.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_1_3.jpg>
 Package pdftex.def Info: graphics/subsystem_example_1_3.jpg used on input line 9
 7.
 (pdftex.def)             Requested size: 81.5057pt x 80.80307pt.
- [15
+ [16
 
 <./graphics/subsystem_example_1_3.jpg>]
 \0.30196 0.28039 0.25882 rg 0.30196 0.28039 0.25882 RG10.95tikzsymbols@savebox@S
 miley1none=\box102
 \0.30196 0.28039 0.25882 rg 0.30196 0.28039 0.25882 RG10.95tikzsymbols@savebox@S
 adey1none=\box103
- <graphics/subsystem_example_1_4.jpg, id=172, 230.8625pt x 231.86626pt>
+ <graphics/subsystem_example_1_4.jpg, id=177, 230.8625pt x 231.86626pt>
 File: graphics/subsystem_example_1_4.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_1_4.jpg>
 Package pdftex.def Info: graphics/subsystem_example_1_4.jpg used on input line 9
 7.
 (pdftex.def)             Requested size: 80.80307pt x 81.15439pt.
- [16
+ [17
 
 <./graphics/subsystem_example_1_4.jpg>]) (./contents/exsample_subject.tex
 File: graphics/subsystem_example_1_1.jpg Graphic file (type jpg)
@@ -4337,38 +4339,35 @@ Package pdftex.def Info: graphics/subsystem_example_1_1.jpg used on input line 5
 0.
 (pdftex.def)             Requested size: 82.91098pt x 83.2623pt.
 
-[17
+[18
 
 ]
 Overfull \hbox (4.90007pt too wide) in paragraph at lines 50--50
 [][] 
  []
 
-<graphics/subsystem_example_2_2.jpg, id=183, 225.84375pt x 229.85875pt>
+<graphics/subsystem_example_2_2.jpg, id=188, 225.84375pt x 229.85875pt>
 File: graphics/subsystem_example_2_2.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_2_2.jpg>
 Package pdftex.def Info: graphics/subsystem_example_2_2.jpg used on input line 5
 0.
 (pdftex.def)             Requested size: 79.04648pt x 80.45175pt.
- [18
+ [19
 
 <./graphics/subsystem_example_2_2.jpg>] <graphics/subsystem_example_2_3.jpg, id
-=189, 225.84375pt x 229.85875pt>
+=194, 225.84375pt x 229.85875pt>
 File: graphics/subsystem_example_2_3.jpg Graphic file (type jpg)
 
 <use graphics/subsystem_example_2_3.jpg>
 Package pdftex.def Info: graphics/subsystem_example_2_3.jpg used on input line 5
 0.
 (pdftex.def)             Requested size: 79.04648pt x 80.45175pt.
- [19
+ [20
 
-<./graphics/subsystem_example_2_3.jpg>]) (./contents/implications.tex [20
+<./graphics/subsystem_example_2_3.jpg>]) [21
 
-]) [21
-
-]
-(./contents/superposition_neuron.tex
+] (./contents/superposition_neuron.tex
 <graphics/neuron.jpg, id=208, 157.0668pt x 130.086pt>
 File: graphics/neuron.jpg Graphic file (type jpg)
 
@@ -4380,14 +4379,14 @@ Overfull \hbox (16.64278pt too wide) in paragraph at lines 45--45
  [][][]\EU2/SourceSansPro(1)/m/n/10.95 [[]8[]] 
  []
 
-luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf" [22
+[22
 
 <./graphics/neuron.jpg>]
 Overfull \hbox (21.90005pt too wide) in paragraph at lines 45--45
 []  
  []
 
-<graphics/neuron_schematic.jpg, id=218, 915.42pt x 638.385pt>
+luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf" <graphics/neuron_schematic.jpg, id=217, 915.42pt x 638.385pt>
 File: graphics/neuron_schematic.jpg Graphic file (type jpg)
 
 <use graphics/neuron_schematic.jpg>
@@ -4455,7 +4454,27 @@ Overfull \hbox (15.88985pt too wide) in paragraph at lines 18--18
 
 [28
 
-<./graphics/states_of_matter.jpg>]) (./contents/perceptronium_properties.tex
+<./graphics/states_of_matter.jpg>]) (./contents/additional_properties.tex
+<graphics/property_principles.jpg, id=274, 938.50626pt x 539.01375pt>
+File: graphics/property_principles.jpg Graphic file (type jpg)
+
+<use graphics/property_principles.jpg>
+Package pdftex.def Info: graphics/property_principles.jpg used on input line 8.
+(pdftex.def)             Requested size: 281.55405pt x 161.70537pt.
+ [29
+
+<./graphics/property_principles.jpg>] <graphics/property_principles_1.jpg, id=2
+82, 938.50626pt x 539.01375pt>
+File: graphics/property_principles_1.jpg Graphic file (type jpg)
+
+<use graphics/property_principles_1.jpg>
+Package pdftex.def Info: graphics/property_principles_1.jpg used on input line 8
+.
+(pdftex.def)             Requested size: 281.55405pt x 161.70537pt.
+ [30
+
+<./graphics/property_principles_1.jpg>]) (./contents/perceptronium_properties.t
+ex
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 25.
@@ -4491,17 +4510,17 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
-[29
+[31
 
 ]) (./contents/integrated_information.tex
-<graphics/qrcode_whole.jpg, id=282, 822.272pt x 822.272pt>
+<graphics/qrcode_whole.jpg, id=300, 822.272pt x 822.272pt>
 File: graphics/qrcode_whole.jpg Graphic file (type jpg)
 
 <use graphics/qrcode_whole.jpg>
 Package pdftex.def Info: graphics/qrcode_whole.jpg used on input line 43.
 (pdftex.def)             Requested size: 115.1173pt x 115.1173pt.
 
-<graphics/integrated_information_graph.jpg, id=283, 1136.245pt x 610.28pt>
+<graphics/integrated_information_graph.jpg, id=301, 1136.245pt x 610.28pt>
 File: graphics/integrated_information_graph.jpg Graphic file (type jpg)
 
 <use graphics/integrated_information_graph.jpg>
@@ -4512,10 +4531,10 @@ Package pdftex.def Info: graphics/integrated_information_graph.jpg used on input
 Overfull \vbox (14.15076pt too high) detected at line 43
  []
 
-[30
+[32
 
 <./graphics/qrcode_whole.jpg><./graphics/integrated_information_graph.jpg>]
-<graphics/qrcode_damaged.jpg, id=291, 822.272pt x 822.272pt>
+<graphics/qrcode_damaged.jpg, id=309, 822.272pt x 822.272pt>
 File: graphics/qrcode_damaged.jpg Graphic file (type jpg)
 
 <use graphics/qrcode_damaged.jpg>
@@ -4531,10 +4550,10 @@ Package pdftex.def Info: graphics/integrated_information_graph.jpg used on input
 Overfull \vbox (14.15076pt too high) detected at line 43
  []
 
-[31
+[33
 
 <./graphics/qrcode_damaged.jpg>]
-<graphics/egg_crate_potentials.jpg, id=301, 786.94pt x 655.44875pt>
+<graphics/egg_crate_potentials.jpg, id=317, 786.94pt x 655.44875pt>
 File: graphics/egg_crate_potentials.jpg Graphic file (type jpg)
 
 <use graphics/egg_crate_potentials.jpg>
@@ -4546,32 +4565,13 @@ Overfull \hbox (1.9014pt too wide) in paragraph at lines 43--43
  [][][]\EU2/SourceSansPro(1)/m/n/10.95 [[]7[]] 
  []
 
-[32
+[34
 
 <./graphics/egg_crate_potentials.jpg>]) (./contents/integration_problems.tex [3
-3
+5
 
-]) (./contents/additional_properties.tex
-<graphics/property_principles.jpg, id=314, 938.50626pt x 539.01375pt>
-File: graphics/property_principles.jpg Graphic file (type jpg)
-
-<use graphics/property_principles.jpg>
-Package pdftex.def Info: graphics/property_principles.jpg used on input line 8.
-(pdftex.def)             Requested size: 281.55405pt x 161.70537pt.
- [34
-
-<./graphics/property_principles.jpg>] <graphics/property_principles_1.jpg, id=3
-22, 938.50626pt x 539.01375pt>
-File: graphics/property_principles_1.jpg Graphic file (type jpg)
-
-<use graphics/property_principles_1.jpg>
-Package pdftex.def Info: graphics/property_principles_1.jpg used on input line 8
-.
-(pdftex.def)             Requested size: 281.55405pt x 161.70537pt.
- [35
-
-<./graphics/property_principles_1.jpg>] <graphics/property_principles_2.jpg, id
-=330, 938.50626pt x 539.01375pt>
+]) (./contents/properties.tex
+<graphics/property_principles_2.jpg, id=330, 938.50626pt x 539.01375pt>
 File: graphics/property_principles_2.jpg Graphic file (type jpg)
 
 <use graphics/property_principles_2.jpg>
@@ -4707,7 +4707,7 @@ luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-RegularIt.otf
 "
 luaotfload | load : Lookup/name: "SourceSansPro" -> "SourceSansPro-Regular.otf"
 LaTeX Font Info:    Font shape `EU2/SourceCodePro(0)/m/n' will be
-(Font)              scaled to size 9.8322pt on input line 91.
+(Font)              scaled to size 9.8322pt on input line 95.
 luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" [51
 
 ] [52
@@ -4735,11 +4735,11 @@ luaotfload | load : Lookup/name: "SourceCodePro" -> "SourceCodePro-Regular.otf" 
 
 
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
 (./presentation_consciousness_observer.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
 Package rerunfilecheck Info: File `presentation_consciousness_observer.out' has 
 not changed.
 (rerunfilecheck)             Checksum: 04799EBFA860AF03755B6AA7FA654DFD;386.
@@ -4747,19 +4747,19 @@ Package logreq Info: Writing requests to 'presentation_consciousness_observer.ru
 n.xml'.
 
 \openout1 = presentation_consciousness_observer.run.xml
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 93.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 97.
 )
 
 Here is how much of LuaTeX's memory you used:
- 57640 strings out of 494897
+ 57653 strings out of 494897
  125200,1977958 words of node,token memory allocated
  9875 words of node memory still in use:
    59 hlist, 9 vlist, 3 rule, 63 disc, 6 math, 245 glue, 57 kern, 48 penalty, 51
 2 glyph, 409 attribute, 175 glue_spec, 409 attribute_list, 18 action, 4 write, 5
  local_par, 204 pdf_literal, 3 pdf_start_link, 3 pdf_end_link, 3 pdf_dest, 64 pd
 f_colorstack nodes
-   avail lists: 1:15,2:1147,3:1835,4:1801,5:202,6:2524,7:36,8:46,9:669,10:135
- 58440 multiletter control sequences out of 65536+600000
+   avail lists: 1:14,2:1147,3:1830,4:1801,5:234,6:2524,7:36,8:46,9:669,10:135
+ 58445 multiletter control sequences out of 65536+600000
  156 fonts using 41030679 bytes
  63i,22n,116p,1247b,1600s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcecodepro/SourceCod
@@ -4774,7 +4774,7 @@ larIt.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe/sourcesanspro
 /SourceSansPro-Bold.otf></usr/local/texlive/2015/texmf-dist/fonts/opentype/adobe
 /sourcesanspro/SourceSansPro-Regular.otf></usr/local/texlive/2015/texmf-dist/fon
 ts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf>
-Output written on presentation_consciousness_observer.pdf (55 pages, 9731161 byt
+Output written on presentation_consciousness_observer.pdf (55 pages, 9730988 byt
 es).
 
 PDF statistics: 588 PDF objects out of 1000 (max. 8388607)

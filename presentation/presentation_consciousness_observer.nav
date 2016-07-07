@@ -29,12 +29,12 @@
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {3}{0}{2}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\slideentry {3}{0}{3}{13/16}{}{0}}
-\headcommand {\beamer@framepages {13}{16}}
-\headcommand {\slideentry {3}{0}{4}{17/19}{}{0}}
-\headcommand {\beamer@framepages {17}{19}}
-\headcommand {\slideentry {3}{0}{5}{20/20}{}{0}}
-\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\slideentry {3}{0}{3}{13/13}{}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {3}{0}{4}{14/17}{}{0}}
+\headcommand {\beamer@framepages {14}{17}}
+\headcommand {\slideentry {3}{0}{5}{18/20}{}{0}}
+\headcommand {\beamer@framepages {18}{20}}
 \headcommand {\sectionentry {4}{Dekohärenz von Gehirnprozessen}{21}{Dekohärenz von Gehirnprozessen}{0}}
 \headcommand {\beamer@sectionpages {11}{20}}
 \headcommand {\beamer@subsectionpages {11}{20}}
@@ -51,19 +51,21 @@
 \headcommand {\beamer@framepages {27}{27}}
 \headcommand {\slideentry {5}{0}{2}{28/28}{}{0}}
 \headcommand {\beamer@framepages {28}{28}}
-\headcommand {\slideentry {5}{0}{3}{29/29}{}{0}}
-\headcommand {\beamer@framepages {29}{29}}
-\headcommand {\slideentry {5}{0}{4}{30/32}{}{0}}
-\headcommand {\beamer@framepages {30}{32}}
-\headcommand {\slideentry {5}{0}{5}{33/33}{}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {5}{0}{6}{34/36}{}{0}}
-\headcommand {\beamer@framepages {34}{36}}
-\headcommand {\slideentry {5}{0}{7}{37/38}{}{0}}
+\headcommand {\slideentry {5}{0}{3}{29/30}{}{0}}
+\headcommand {\beamer@framepages {29}{30}}
+\headcommand {\slideentry {5}{0}{4}{31/31}{}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {5}{0}{5}{32/34}{}{0}}
+\headcommand {\beamer@framepages {32}{34}}
+\headcommand {\slideentry {5}{0}{6}{35/35}{}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {5}{0}{7}{36/36}{}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\slideentry {5}{0}{8}{37/38}{}{0}}
 \headcommand {\beamer@framepages {37}{38}}
-\headcommand {\slideentry {5}{0}{8}{39/39}{}{0}}
+\headcommand {\slideentry {5}{0}{9}{39/39}{}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{0}{9}{40/42}{}{0}}
+\headcommand {\slideentry {5}{0}{10}{40/42}{}{0}}
 \headcommand {\beamer@framepages {40}{42}}
 \headcommand {\sectionentry {6}{Zusammenfassung}{43}{Zusammenfassung}{0}}
 \headcommand {\beamer@sectionpages {27}{42}}
@@ -101,4 +103,4 @@
 \headcommand {\beamer@subsectionpages {50}{55}}
 \headcommand {\beamer@sectionpages {50}{55}}
 \headcommand {\beamer@documentpages {55}}
-\headcommand {\def \inserttotalframenumber {27}}
+\headcommand {\def \inserttotalframenumber {28}}
