@@ -1,0 +1,84 @@
+% !TeX root = ../paper_observer_consciousness.tex
+
+Ein theoretisches Konzept für die Beschreibung eines Beobachters,
+ist die Einteilung des betrachteten Gesamtsystems, beschrieben durch 
+den Hamiltonoperator $H$, in drei Teilsysteme der Form
+\begin{empheq}{align}
+	H &= H_{\mathrm{O}} + H_{\mathrm{S}} + H_{\mathrm{E}}\notag\\ 
+	  &+ H_{\mathrm{OE}} + H_{\mathrm{SE}} + H_{\mathrm{OS}} + H_{\mathrm{OES}}.
+\end{empheq}
+
+Dabei werden die Teilsysteme so gewählt, dass das Objekt (O) alle Freiheitsgrade
+enthält die für den Beobachter relevant sind, beispielsweise der Wert eines Messgeräts.
+Genauso werden alle Freiheitsgrade des Beobachters, die dessen Wahrnehmung beschreiben 
+in einem Teilsystem betrachtet, das Subjekt (S) genannt wird. Der Großteil aller 
+Freiheitsgerade, der nach dieser Einteilung noch übrig ist und auch die Freiheitsgerade
+aller Teilchen einschließt aus denen Beobachter und Messgerät bestehen, wird als Umgebung 
+(E) beschrieben.
+
+Durch die Einteilung in drei Teilsysteme ergibt sich im allgemeinen Fall ein komplexer Wechselwirkungsterm,
+der aus den Wechselwirkungen von jeweils zweien der Teilsysteme miteinander und einem Term besteht, der
+die Wechselwirkung aller drei Teilsysteme beschreibt, für den jedoch im Folgenden $H_{\mathrm{OES}} = 0$
+angenommen wird. 
+Die drei übrigen Wechselwirkungsterme lassen sich mit bekannten Wechselwirkungen identifizieren. So beschreiben
+$H_{\mathrm{OE}}$ und $H_{\mathrm{OE}}$ die Dekohärenz von dem Objekt respektive dem Subjekt durch die Wechselwirkung
+mit der Umgebung. Der Term $H_{\mathrm{OS}}$ kann als Messung des Beobachters am System verstanden werden.
+
+Damit ein solches Modell für den Beobachter (Subjekt) mit der Realität vereinbare Ergebnisse liefert,
+müssen die Wechselwirkungen von Subjekt mit der Umgebung und dem Objekt eine hohes Maß an Korrelation
+zu bestimmten Eigenschaften hervorrufen. Beispiele für diese Eigenschaften sind die Lichtintensität oder 
+den Schalldruck, die wir mit unseren Sinnen relativ konstant wahrnehmen können. Ferner müssen auch Korrelationen
+zu vergangenen Zuständen möglich sein, da wir als menschliche Beobachter die Fähigkeit haben uns an 
+die Vergangenheit zu erinnern.
+
+Um die Wirkung der einzelnen Wechselwirkungsterme zu verdeutlichen ist im Folgenden ein Beispiel
+aus\,\cite{Tegmark_15_long} gegeben. Betrachtet wird hierbei die reduzierte Dichtematrix $\rho_{\mathrm{OS}}$
+eines Systems in denen sowohl das Objekt als auch das Subjekt nur einen Freiheitsgrad mit den jeweiligen 
+Zuständen 
+\begin{empheq}{align}
+	\text{Subjekt}&: \ketsmiley, \ketneutrey, \ketfrowny\\
+	\text{Objekt}&: \ketup, \ketdown
+\end{empheq}
+besitzen. Aus denen sich die 6 Basiszustände 
+\begin{empheq}{equation}
+	\ketsmileyup, \ketsmileydown,\ketneutreyup, \ketneutreydown,\ketfrownyup, \ketfrownydown
+\end{empheq}
+für das verbundene System ergeben. Für den Anfangszustand wird die Dichtematrix $\rho_{\mathrm{OS}}~=~  \ketneutreyup\braneutreyup$ angenommen. Der Term $H_{\mathrm{O}}$ beschreibt nun die Zeitentwicklung des
+Objekts für die folgendes angenommen werden soll.
+\begin{empheq}{equation}
+	U\ketup = \exp(-iH_{\mathrm{O}}t)\ketup = \frac{1}{\sqrt{2}}\del{\ketup + \ketdown}
+\end{empheq}
+Diese Entwicklung erzeugt aus dem reinen Anfangszustand $\rho_{\mathrm{O}}~=~\ketup\braup$ einen
+Zustand in Superposition
+\begin{empheq}{equation}
+U\rho_{\mathrm{O}}U^{\dagger} = \frac{1}{2}\del{\ketup\braup + \ketup\bradown + \ketdown\braup + \ketdown\bradown}.
+\end{empheq}
+Durch die Wechselwirkung mit der Umgebung findet nun (vollständige) Dekohärenz dieses Zustands statt, wodurch die 
+Nebendiagonalelemente der Dichtematrix unterdrückt werden und man den Zustand
+\begin{empheq}{equation}
+ \rho^{\prime}_{\mathrm{O}} = \frac{1}{2}\del{\ketup\braup + \ketdown\bradown}
+\end{empheq}
+erhält. Die Messung des Subjekts an Objekt sei in der Art, dass die neutrale Stimmung $\ketneutrey$ des Beobachters bei Beobachtung eines $\ketup$ zu $\ketsmiley$ und bei Beobachtung  von $\ketdown$ zu $\ketfrowny$ übergeht.
+Formal lassen sich diese Annahmen mit $U\ketneutreyup = \ketsmileyup$ und $U\ketneutreydown = \ketfrownydown$ beschreiben, wobei $U$ die Zeitentwicklung in Abhängigkeit von $H_{\mathrm{OS}}$ darstellt.
+Bei der Beobachtung des Zustands  $\rho^{\prime}_{\mathrm{O}}$ durch einen anfangs neutralen Beobachter ergibt sich 
+entsprechend
+\begin{empheq}{align}
+	 \rho^{\prime}_{\mathrm{OS}}&= \frac{1}{2} U\del{\ketup\braup + \ketdown\bradown} \otimes \ketneutrey\braneutrey U^{\dagger}\notag\\
+	 &= \frac{1}{2}(\ketsmileyup\brasmileyup + \ketfrownydown\brafrownydown).
+\end{empheq}
+
+Analog wirken die interne Dynamik des Subjekts $H_{\mathrm{S}}$  und die Wechselwirkung des Systems mit der
+Umgebung $H_{\mathrm{SE}}$ , wodurch zunächst Superpositionen erzeugt und durch Dekohärenz wieder unterdrückt werden.
+Aus dem System des neutralen Beobachters $\rho_{\mathrm{S}} = \ketneutrey\braneutrey$ ergibt sich durch Zeitentwicklung $U$
+\begin{empheq}{equation}
+U\rho_{\mathrm{S}}U^{\dagger} =\frac{1}{2}\del{\ketsmiley\brasmiley + \ketsmiley\brafrowny + \ketfrowny\brasmiley + \ketfrowny\brafrowny}.
+\end{empheq}
+Und nach Wirkung der  Dekohärenz
+\begin{empheq}{equation}
+\rho^{\prime}_{\mathrm{S}} =\frac{1}{2}\del{\ketsmiley\brasmiley + \ketfrowny\brafrowny}.
+\end{empheq}
+
+Für den Fall eines menschlichen Beobachters lässt sich nun die Frage stellen, ob die Superpositionen durch die 
+Zeitentwickung überhaupt entstehen oder aber die Dekohärenz auf so kleinen Zeitskalen abläuft, dass diese 
+förmlich  instantan zerstört werden. Diese Frage wird im folgenden Abschnitt unter Betrachtung von Neuronen im 
+menschlichen Gehirn beantwortet.   
