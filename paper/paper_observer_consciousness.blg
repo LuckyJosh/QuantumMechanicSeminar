@@ -1,15 +1,15 @@
-[1] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:327> INFO - This is Biber 2.2
 [1] Config.pm:330> INFO - Logfile is 'paper_observer_consciousness.blg'
-[79] biber:286> INFO - === Do Jul  7, 2016, 23:10:20
-[80] Biber.pm:334> INFO - Reading 'paper_observer_consciousness.bcf'
-[258] Biber.pm:677> INFO - Found 4 citekeys in bib section 0
-[299] Biber.pm:3054> INFO - Processing section 0
-[325] Biber.pm:3193> INFO - Looking for bibtex format file 'sources.bib' for section 0
-[327] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
-[328] bibtex.pm:935> INFO - Found BibTeX data source 'sources.bib'
-[440] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[440] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[440] Biber.pm:2931> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'de-DE'
-[440] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
-[449] bbl.pm:505> INFO - Writing 'paper_observer_consciousness.bbl' with encoding 'UTF-8'
-[450] bbl.pm:596> INFO - Output to paper_observer_consciousness.bbl
+[78] biber:286> INFO - === Fr Jul  8, 2016, 19:13:29
+[78] Biber.pm:334> INFO - Reading 'paper_observer_consciousness.bcf'
+[260] Biber.pm:677> INFO - Found 6 citekeys in bib section 0
+[324] Biber.pm:3054> INFO - Processing section 0
+[350] Biber.pm:3193> INFO - Looking for bibtex format file 'sources.bib' for section 0
+[352] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[353] bibtex.pm:935> INFO - Found BibTeX data source 'sources.bib'
+[504] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[505] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[505] Biber.pm:2931> INFO - Sorting list 'none' of type 'entry' with scheme 'none' and locale 'de-DE'
+[505] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
+[517] bbl.pm:505> INFO - Writing 'paper_observer_consciousness.bbl' with encoding 'UTF-8'
+[519] bbl.pm:596> INFO - Output to paper_observer_consciousness.bbl
