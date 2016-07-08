@@ -41,8 +41,34 @@ entsprechend für die notwendige Redundanz.
 		Kurve gibt jeweils die maximale Integration für die jeweilige Anzahl an Speicher-bits an. \label{fig:maximal_integrated_information}}
 \end{figure}  
 
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.25]{graphics/egg_crate_potentials.jpg}
+	\caption{Darstellung von zwei Eierkarton-Potentiallandschaften einmal mit 256 Minima (oben) und einmal 
+		mit 16 Minima (unten). Ein Zustand im unteren System weißt eine gute Integration auf ein Zustand im oberen System ist gar nicht integriert.\label{fig:eggcrate_potential}}
+\end{figure}  
+
+
 Die Übertragung diese Konzepts in physikalische Systeme ist beispielsweise unter Betrachtung von 
 \enquote{Eierkarton}-Potentiallandschaften, wie in \cref{fig:eggcrate_potential} dargestellt, möglich.
+In dem Beispiel des dargestellten 16$\times$16-Gitters lässt sich die Position $\del{x,y}$ eines Potentialminimums
+mit unter Verwendung von je einer 4-bit-Zahl ($0_2$ -- $15_2$) für $x$ und $y$ kodieren. Für die beiden dargestellten 
+Potentiallandschaften ergeben sich für die Integrierte Information die Werte $\Phi_{\mathrm{oben}} = 0$  und 
+$\Phi_{\mathrm{unten}} = 2$. Diese Unterschiede in der Integration lassen sich folgender Maßen veranschaulichen.
+Kennt man für beide der Potentiale nur einer der beiden Positionen $x$ oder $y$ so gibt das ober Potential keinen
+Aufschluss auf die andere Komponente während diese im unteren festzustellen ist.
+
+Betrachtet man nun neben der Information in einem n-bit-Zustand für die nach Shannon in etwa $S(\rho) \sim \log_{2}(\text{\# möglicher Zustände}) \sim n$. Die Information, die in einem System mit $k$ Minima so ergibt 
+sich $S(H) \sim \log_{2}(\text{\# möglicher } H) \sim kn$. 
+Setzt man nun beispielhaft die Anzahl der Neuronen im menschlichen Gehirn an und maximiert die Integrierte
+Information die in diesem System steckt, ergibt sich die dafür notwendige Information zu 
+\begin{empheq}{equation}
+	S(H) \sim \sqrt{2^{n}}\frac{n}{2} \sim 10^{10^{10}} \text{bit}.
+\end{empheq}
+Diese Anzahl übersteigt die Anzahl der Teilchen im Universum $\num{e89}$ um ein vielfaches. Die notwendige Dynamik 
+für maximale Integration im Gehirn des Menschen ist entsprechen viel zu komplex um 
+realisiert zu werden.
+
   
 
 
