@@ -120,6 +120,24 @@
       \verb http://www.biolbull.org/content/215/3/216.full
       \endverb
     \endentry
+    \entry{Zeh_00}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3b6299517eb7e725d0be6a5f147781fa}{Zeh}{Z\bibinitperiod}{H.\bibnamedelimi Dieter}{H\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3b6299517eb7e725d0be6a5f147781fa}
+      \strng{fullhash}{3b6299517eb7e725d0be6a5f147781fa}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ArXiv e-prints}
+      \field{title}{The Problem of conscious observation in Quantum Mechanical Description}
+      \field{year}{2000}
+      \verb{eprint}
+      \verb quant-ph/9908084v3
+      \endverb
+    \endentry
   \endsortlist
 \endrefsection
 \endinput

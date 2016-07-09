@@ -15,6 +15,13 @@ demnach möglichst unabhängigen Teilzustände die geringste Transinformation ha
 wurde die Trennung des Zustands $\rho$  zur Bestimmung der Integrierten Information von Tononi
 als \Quote{the cruelest cut} bezeichnet.
 
+\begin{wrapfigure}{r}{0.32\textwidth}
+	\centering
+	\includegraphics[scale=0.15]{graphics/qrcode_damaged.jpg}
+	\caption{Beispielhafte Darstellung eines QR-Code, dessen Information auch nach Entfernen von etwa 
+		\SI{30}{\percent} des Musters noch nicht gelöscht ist.\label{fig:neuronqrcode}}
+\end{wrapfigure} 
+
 Eine mögliche Veranschaulichung von Integrierten Information ist das Speichern von Information mit 
 unter Verwendung von Redundanz oder Fehlerkorrektur-Mechanismen. Dies findet beispielsweise in 
 den weit verbreiteten QR-Codes Anwendung, deren Informationen nach Verlust eines Teils des Musters immer
@@ -25,28 +32,23 @@ für $n = \SI{14}{bit}$ gezeigt. Es ergibt sich, dass die maximal mögliche Inte
 {$\large \sfrac{n}{2}$} bit  zum speichern der Information vorliegt. Die übrigen {$\large \sfrac{n}{2}$} bit sorgen 
 entsprechend für die notwendige Redundanz.
 
-
-\begin{figure}
+ 
+\begin{figure}%{l}{0.5\textwidth}
 	\centering
-	\includegraphics[scale=0.15]{graphics/qrcode_damaged.jpg}
-	\caption{Beispielhafte Darstellung eines QR-Code, dessen Information auch nach Entfernen von etwa 
-		\SI{30}{\percent} des Musters noch nicht gelöscht ist.\label{fig:neuronqrcode}}
-\end{figure}  
-\begin{figure}
-	\centering
-	\includegraphics[scale=0.25]{graphics/integrated_information_graph.jpg}
+	\includegraphics[scale=0.2]{graphics/integrated_information_graph.jpg}
 	\caption{Darstellung der Ergebnisse der numerischen Suche nach maximaler Intgration in einem System 
 		mit $n = \SI{14}{bit}$. Das Dreieck im Hintergrund stellt dabei die theoretisch maximal mögliche 
 		Integration dar, die dem Minimum von Speicher-bits und Redundanz-bits entspricht. Die grau dargestellte
 		Kurve gibt jeweils die maximale Integration für die jeweilige Anzahl an Speicher-bits an. \label{fig:maximal_integrated_information}}
 \end{figure}  
 
-\begin{figure}
+\FloatBarrier
+\begin{wrapfigure}{r}{0.4\textwidth}
 	\centering
-	\includegraphics[scale=0.25]{graphics/egg_crate_potentials.jpg}
+	\includegraphics[scale=0.23]{graphics/egg_crate_potentials.jpg}
 	\caption{Darstellung von zwei Eierkarton-Potentiallandschaften einmal mit 256 Minima (oben) und einmal 
 		mit 16 Minima (unten). Ein Zustand im unteren System weißt eine gute Integration auf ein Zustand im oberen System ist gar nicht integriert.\label{fig:eggcrate_potential}}
-\end{figure}  
+\end{wrapfigure}  
 
 
 Die Übertragung diese Konzepts in physikalische Systeme ist beispielsweise unter Betrachtung von 
@@ -58,16 +60,17 @@ $\Phi_{\mathrm{unten}} = 2$. Diese Unterschiede in der Integration lassen sich f
 Kennt man für beide der Potentiale nur einer der beiden Positionen $x$ oder $y$ so gibt das ober Potential keinen
 Aufschluss auf die andere Komponente während diese im unteren festzustellen ist.
 
-Betrachtet man nun neben der Information in einem n-bit-Zustand für die nach Shannon in etwa $S(\rho) \sim \log_{2}(\text{\# möglicher Zustände}) \sim n$. Die Information, die in einem System mit $k$ Minima so ergibt 
-sich $S(H) \sim \log_{2}(\text{\# möglicher } H) \sim kn$. 
-Setzt man nun beispielhaft die Anzahl der Neuronen im menschlichen Gehirn an und maximiert die Integrierte
-Information die in diesem System steckt, ergibt sich die dafür notwendige Information zu 
+Betrachtet man nun neben der Information in einem n-bit-Zustand für die nach Shannon in etwa $S(\rho) \sim 
+\log_{2}(\text{\# möglicher Zustände}) \sim n$ gilt, die Information, die in dem System mit $k$ Minima selbst steckt, 
+so ergibt sich $S(H) \sim \log_{2}(\text{\# möglicher } H) \sim kn$. 
+Setzt man nun beispielhaft die Anzahl der Neuronen im menschlichen Gehirn als $n$ an und maximiert die Integrierte
+Information in diesem System, ergibt sich 
 \begin{empheq}{equation}
 	S(H) \sim \sqrt{2^{n}}\frac{n}{2} \sim 10^{10^{10}} \text{bit}.
 \end{empheq}
-Diese Anzahl übersteigt die Anzahl der Teilchen im Universum $\num{e89}$ um ein vielfaches. Die notwendige Dynamik 
-für maximale Integration im Gehirn des Menschen ist entsprechen viel zu komplex um 
-realisiert zu werden.
+Diese Anzahl übersteigt die Teilchenzahl des Universums $\num{e89}$ um ein Vielfaches. Die notwendige Dynamik 
+für maximale Integration im Gehirn des Menschen ist entsprechen viel zu komplex, um realisiert werden zu können.
+
 
   
 
