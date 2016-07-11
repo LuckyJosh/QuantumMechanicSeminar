@@ -4,8 +4,7 @@ Integrierte Information als Maß für das Bewusstsein zu verwenden ist Teil der 
 des Neurowissenschaftlers Giulio Tononi.\,\cite{Tononi_08} 
 Die im Folgenden verwendete formale Definition für die Integrierte Information $\Phi$ weicht dabei von der 
 Definition nach Tononi ab, ermöglicht aber ähnliche Aussagen. Die Integriert Information entspricht 
-hier der minimalen Transinformation $I(\rho)$ die durch eine Trennung des Zustands $\rho$ in zwei Teilsystem
-Zustände $\rho_{1}$ und $\rho_{2}$ erreicht werden kann.
+hier der minimalen Transinformation $I(\rho)$ die durch eine Trennung des Zustands $\rho$ in zwei Teilsystemzustände $\rho_{1}$ und $\rho_{2}$ erreicht werden kann.
 
 \begin{empheq}{equation}
 	\Phi = I_{\mathrm{min}} = \min I(\rho) = \min \del{S(\rho_1) + S(\rho_2) - S(\rho)}
@@ -15,14 +14,14 @@ demnach möglichst unabhängigen Teilzustände die geringste Transinformation ha
 wurde die Trennung des Zustands $\rho$  zur Bestimmung der Integrierten Information von Tononi
 als \Quote{the cruelest cut} bezeichnet.
 
-\begin{wrapfigure}{r}{0.32\textwidth}
+\begin{wrapfigure}{r}{0.3\textwidth}
 	\centering
 	\includegraphics[scale=0.15]{graphics/qrcode_damaged.jpg}
 	\caption{Beispielhafte Darstellung eines QR-Code, dessen Information auch nach Entfernen von etwa 
-		\SI{30}{\percent} des Musters noch nicht gelöscht ist.\label{fig:neuronqrcode}}
+		\SI{30}{\percent} des Musters noch nicht gelöscht ist.\label{fig:qrcode}}
 \end{wrapfigure} 
 
-Eine mögliche Veranschaulichung von Integrierten Information ist das Speichern von Information mit 
+Eine mögliche Veranschaulichung von Integrierten Information ist das Speichern von Information
 unter Verwendung von Redundanz oder Fehlerkorrektur-Mechanismen. Dies findet beispielsweise in 
 den weit verbreiteten QR-Codes Anwendung, deren Informationen nach Verlust eines Teils des Musters immer
 noch zugänglich sind. Ein Beispiel dafür ist in \cref{fig:qrcode} dargestellt.
@@ -38,8 +37,8 @@ entsprechend für die notwendige Redundanz.
 	\includegraphics[scale=0.2]{graphics/integrated_information_graph.jpg}
 	\caption{Darstellung der Ergebnisse der numerischen Suche nach maximaler Intgration in einem System 
 		mit $n = \SI{14}{bit}$. Das Dreieck im Hintergrund stellt dabei die theoretisch maximal mögliche 
-		Integration dar, die dem Minimum von Speicher-bits und Redundanz-bits entspricht. Die grau dargestellte
-		Kurve gibt jeweils die maximale Integration für die jeweilige Anzahl an Speicher-bits an. \label{fig:maximal_integrated_information}}
+		Integration dar, die dem Minimum der Anzahlen von Speicher- und Redundanz-bits entspricht. Die grau dargestellte
+		Kurve gibt die numerisch bestimmte maximale Integration für die jeweilige Anzahl an Speicher-bits an. \label{fig:maximal_integrated_information}}
 \end{figure}  
 
 \FloatBarrier
@@ -57,7 +56,7 @@ In dem Beispiel des dargestellten 16$\times$16-Gitters lässt sich die Position 
 mit unter Verwendung von je einer 4-bit-Zahl ($0_2$ -- $15_2$) für $x$ und $y$ kodieren. Für die beiden dargestellten 
 Potentiallandschaften ergeben sich für die Integrierte Information die Werte $\Phi_{\mathrm{oben}} = 0$  und 
 $\Phi_{\mathrm{unten}} = 2$. Diese Unterschiede in der Integration lassen sich folgender Maßen veranschaulichen.
-Kennt man für beide der Potentiale nur einer der beiden Positionen $x$ oder $y$ so gibt das ober Potential keinen
+Kennt man für beide der Potentiale nur einer der beiden Positionen $x$ oder $y$, so gibt das ober Potential keinen
 Aufschluss auf die andere Komponente während diese im unteren festzustellen ist.
 
 Betrachtet man nun neben der Information in einem n-bit-Zustand für die nach Shannon in etwa $S(\rho) \sim 

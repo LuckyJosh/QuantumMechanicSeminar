@@ -2223,11 +2223,13 @@
     <bcf:citekey order="6">Tegmark_15_long</bcf:citekey>
     <bcf:citekey order="7">Tegmark_99</bcf:citekey>
     <bcf:citekey order="8">Tegmark_99</bcf:citekey>
-    <bcf:citekey order="9">Tegmark_99</bcf:citekey>
+    <bcf:citekey order="9">Koch_16</bcf:citekey>
     <bcf:citekey order="10">Tegmark_99</bcf:citekey>
     <bcf:citekey order="11">Tegmark_99</bcf:citekey>
-    <bcf:citekey order="12">Tononi_08</bcf:citekey>
-    <bcf:citekey order="13">Zeh_00</bcf:citekey>
+    <bcf:citekey order="12">Tegmark_99</bcf:citekey>
+    <bcf:citekey order="13">Tononi_08</bcf:citekey>
+    <bcf:citekey order="14">Tegmark_15_short</bcf:citekey>
+    <bcf:citekey order="15">Zeh_00</bcf:citekey>
   </bcf:section>
   <bcf:sortlist section="0" name="none" type="entry" sortscheme="none">
   <bcf:sorting>

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.24)  9 JUL 2016 02:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.11.24)  11 JUL 2016 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2973,28 +2973,28 @@ File: german.lbx 2015/10/21 v3.1 biblatex localization (PK/JW/AB)
 (./paper_observer_consciousness.aux)
 \openout1 = `paper_observer_consciousness.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 5.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -3041,8 +3041,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'paper_observer_consciousness.bbl' found.
 (./paper_observer_consciousness.bbl)
-Package biblatex Info: Reference section=0 on input line 5.
-Package biblatex Info: Reference segment=0 on input line 5.
+Package biblatex Info: Reference section=0 on input line 6.
+Package biblatex Info: Reference segment=0 on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -3128,8 +3128,8 @@ Package scrdate Info: \dateslovak not defined.
 (scrdate)             \todaysname probably cannot use \dayname@slovak.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 5.
-Package hyperref Info: Link coloring OFF on input line 5.
+(lastpage)             ! on input line 6.
+Package hyperref Info: Link coloring OFF on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -3139,94 +3139,94 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count431
 )
-LaTeX Info: Redefining \ref on input line 5.
-LaTeX Info: Redefining \pageref on input line 5.
-LaTeX Info: Redefining \nameref on input line 5.
+LaTeX Info: Redefining \ref on input line 6.
+LaTeX Info: Redefining \pageref on input line 6.
+LaTeX Info: Redefining \nameref on input line 6.
 
 (./paper_observer_consciousness.out) (./paper_observer_consciousness.out)
 \@outlinefile=\write6
 \openout6 = `paper_observer_consciousness.out'.
 
 \c__siunitx_mathsf_int=\count432
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 5.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 5.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 5.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 5.
+(Font)              <12> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 5.
-LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+(Font)              <6> on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+esvect on input line 5.
+LaTeX Font Info:    Try loading font information for U+esvect on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 \c__siunitx_mathtt_int=\count433
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 6.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 (./content/abstract.tex)
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 7.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 8.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 7.
+(babel)             in language  on input line 8.
 
 (./content/introduction.tex
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 31.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 31.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 31.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 43.
+(babel)             in language  on input line 31.
  [1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 10.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 9.
+(babel)             in language  on input line 10.
  (./content/observer_subsystem.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 33.
@@ -3241,21 +3241,21 @@ Package babel Info: Redefining ngerman shorthand "~
 \0 g 0 G12tikzsymbols@savebox@Neutrey1none=\box85
 \0 g 0 G12tikzsymbols@savebox@Sadey1none=\box86
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 77.
+(babel)             in language  on input line 70.
  [3])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 11.
+(babel)             in language  on input line 12.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 11.
+(babel)             in language  on input line 12.
 
 (./content/decoherence_brain.tex
-<graphics/neuron_schematic.jpg, id=87, 915.42pt x 638.385pt>
+<graphics/neuron_schematic.jpg, id=85, 915.42pt x 638.385pt>
 File: graphics/neuron_schematic.jpg Graphic file (type jpg)
 
 <use graphics/neuron_schematic.jpg>
@@ -3268,32 +3268,33 @@ Overfull \hbox (0.98589pt too wide) in paragraph at lines 7--9
 
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 9.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 26.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 26.
+[4 <./graphics/neuron_schematic.jpg>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 32.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 32.
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 32.
+
 (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 36.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 36.
- [4 <./graphics/neuron_schematic.jpg>]
 Underfull \hbox (badness 1122) in paragraph at lines 66--66
 \T1/lmr/m/n/10.95 hä-renz auf-grund der be-trach-te-ten
  []
 
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 14.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 13.
+(babel)             in language  on input line 14.
  (./content/consciousness_statematter.tex
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 7.
@@ -3305,75 +3306,94 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 7.
  [5])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 15.
+(babel)             in language  on input line 16.
  (./content/integration.tex
-<graphics/qrcode_damaged.jpg, id=128, 822.272pt x 822.272pt>
+<graphics/qrcode_damaged.jpg, id=130, 822.272pt x 822.272pt>
 File: graphics/qrcode_damaged.jpg Graphic file (type jpg)
 
 <use graphics/qrcode_damaged.jpg>
-Package pdftex.def Info: graphics/qrcode_damaged.jpg used on input line 20.
+Package pdftex.def Info: graphics/qrcode_damaged.jpg used on input line 19.
 (pdftex.def)             Requested size: 123.33548pt x 123.33548pt.
 
-Underfull \hbox (badness 3547) in paragraph at lines 22--22
-\T1/lmr/m/n/10.95 Dar-stel-lung ei-nes QR-Code,
+Underfull \hbox (badness 3428) in paragraph at lines 21--21
+\T1/lmr/m/n/10.95 te Dar-stel-lung ei-nes QR-
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 22--22
-\T1/lmr/m/n/10.95 Mus-ters noch nicht ge-löscht
+Underfull \hbox (badness 6188) in paragraph at lines 21--21
+\T1/lmr/m/n/10.95 Code, des-sen In-for-ma-ti-on
  []
 
 
-LaTeX Warning: Reference `fig:qrcode' on page 1 undefined on input line 28.
-
-
-LaTeX Font Warning: Command \large invalid in math mode on input line 32.
+LaTeX Font Warning: Command \large invalid in math mode on input line 31.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 32.
-LaTeX Font Info:    Calculating math sizes for size <10.07994> on input line 32
+(Font)              <14.4> on input line 31.
+LaTeX Font Info:    Calculating math sizes for size <10.07994> on input line 31
 .
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.07994> on input line 32.
+(Font)              <10.07994> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.05592> on input line 32.
+(Font)              <7.05592> on input line 31.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.03996> on input line 32.
+(Font)              <5.03996> on input line 31.
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 32.
+LaTeX Font Warning: Command \large invalid in math mode on input line 31.
 
-<graphics/integrated_information_graph.jpg, id=130, 1136.245pt x 610.28pt>
+<graphics/integrated_information_graph.jpg, id=133, 1136.245pt x 610.28pt>
 File: graphics/integrated_information_graph.jpg Graphic file (type jpg)
 
 <use graphics/integrated_information_graph.jpg>
 Package pdftex.def Info: graphics/integrated_information_graph.jpg used on inpu
-t line 38.
+t line 37.
 (pdftex.def)             Requested size: 227.24496pt x 122.05383pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 45.
+(babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 45.
- [6 <./graphics/qrcode_damaged.jpg>] <graphics/egg_crate_potentials.jpg, id=141
-, 786.94pt x 655.44875pt>
+(babel)             in language  on input line 44.
+ [6 <./graphics/qrcode_damaged.jpg>]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+45.
+
+<graphics/egg_crate_potentials.jpg, id=144, 786.94pt x 655.44875pt>
 File: graphics/egg_crate_potentials.jpg Graphic file (type jpg)
 
 <use graphics/egg_crate_potentials.jpg>
 Package pdftex.def Info: graphics/egg_crate_potentials.jpg used on input line 4
-8.
+7.
 (pdftex.def)             Requested size: 180.99239pt x 150.75003pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 53
+.
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 62--69
+\T1/lmr/m/n/12 wa $\OML/lmm/m/it/12 S\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 ^^Z\OT1/
+lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X [][]\OT1/lmr/m/n/12 ([]) \OMS/lmsy/m/n/12 ^^X
+ \OML/lmm/m/it/12 n$
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 62--69
+\T1/lmr/m/n/12 Mi-ni-ma selbst steckt, so er-gibt sich $\OML/lmm/m/it/12 S\OT1/
+lmr/m/n/12 (\OML/lmm/m/it/12 H\OT1/lmr/m/n/12 ) \OMS/lmsy/m/n/12 ^^X
+ []
+
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 17.
+(babel)             in language  on input line 18.
  (./content/independence.tex
-<graphics/presentation_qm_extra.pdf, id=143, 236.1061pt x 238.3876pt>
+<graphics/presentation_qm_extra.pdf, id=146, 236.1061pt x 238.3876pt>
 File: graphics/presentation_qm_extra.pdf Graphic file (type pdf)
 
 <use graphics/presentation_qm_extra.pdf>
@@ -3432,32 +3452,32 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 51.
  [8 <./graphics/presentation_qm_extra.pdf>])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 21.
+(babel)             in language  on input line 22.
  (./content/conclusion.tex)
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 24.
 [9]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 25.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 26.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Overfull \hbox (8.9719pt too wide) in paragraph at lines 26--26
-[]\T1/lmr/m/it/12 Definition: Be-ob-ach-ter\T1/lmr/m/n/12 . 29. Ju-ni 2016. \T1
+Overfull \hbox (5.7079pt too wide) in paragraph at lines 27--27
+[]\T1/lmr/m/it/12 Definition: Be-ob-ach-ter\T1/lmr/m/n/12 . 11. Ju-li 2016. \T1
 /lmr/m/sc/12 url\T1/lmr/m/n/12 : []$\T1/lmtt/m/n/12 http : / / www . duden . de
  / rechtschreibung /
  []
 
 
-Overfull \hbox (15.12193pt too wide) in paragraph at lines 26--26
-[]\T1/lmr/m/it/12 Definition: Be-wusst-sein\T1/lmr/m/n/12 . 29. Ju-ni 2016. \T1
+Overfull \hbox (11.85794pt too wide) in paragraph at lines 27--27
+[]\T1/lmr/m/it/12 Definition: Be-wusst-sein\T1/lmr/m/n/12 . 11. Ju-li 2016. \T1
 /lmr/m/sc/12 url\T1/lmr/m/n/12 : []$\T1/lmtt/m/n/12 http : / / www . duden . de
  / rechtschreibung /
  []
@@ -3465,23 +3485,23 @@ Overfull \hbox (15.12193pt too wide) in paragraph at lines 26--26
 
 AED: lastpage setting LastPage
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 27.
 [10]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 26.
+(babel)             in language  on input line 27.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 26.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
+(babel)             in language  on input line 27.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
  (./paper_observer_consciousness.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `paper_observer_consciousness.out' has not ch
 anged.
 (rerunfilecheck)             Checksum: 48E15EC76DCC1363B28F0DE252CAA09F;475.
@@ -3490,19 +3510,16 @@ anged.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 2.90001pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
 Package logreq Info: Writing requests to 'paper_observer_consciousness.run.xml'
 .
 \openout1 = `paper_observer_consciousness.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45341 strings out of 493054
- 874500 string characters out of 6134765
- 1384071 words of memory out of 5000000
- 48022 multiletter control sequences out of 15000+600000
+ 45345 strings out of 493054
+ 874587 string characters out of 6134765
+ 1382192 words of memory out of 5000000
+ 48024 multiletter control sequences out of 15000+600000
  185274 words of font info for 172 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  66i,16n,75p,10421b,1398s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3529,10 +3546,10 @@ msy10.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy7.pfb><
 /usr/local/texlive/2015/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/
 texlive/2015/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/20
 15/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on paper_observer_consciousness.pdf (10 pages, 1144831 bytes).
+Output written on paper_observer_consciousness.pdf (10 pages, 1145779 bytes).
 PDF statistics:
- 284 PDF objects out of 1000 (max. 8388607)
- 242 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 248 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 

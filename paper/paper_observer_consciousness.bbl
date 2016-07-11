@@ -23,8 +23,8 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{day}{29}
-      \field{month}{06}
+      \field{day}{11}
+      \field{month}{07}
       \field{title}{Definition: Beobachter}
       \field{year}{2016}
       \verb{url}
@@ -35,8 +35,8 @@
       \field{sortinit}{0}
       \field{sortinithash}{990108227b3316c02842d895999a0165}
       \field{labeltitlesource}{title}
-      \field{day}{29}
-      \field{month}{06}
+      \field{day}{11}
+      \field{month}{07}
       \field{title}{Definition: Bewusstsein}
       \field{year}{2016}
       \verb{url}
@@ -55,8 +55,8 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Consciousness Studies}
       \field{title}{Facing Up to the Problem of Consciousness}
-      \field{urlday}{29}
-      \field{urlmonth}{06}
+      \field{urlday}{11}
+      \field{urlmonth}{07}
       \field{urlyear}{2016}
       \field{year}{1995}
       \verb{url}
@@ -99,6 +99,28 @@
       \verb quant-ph/9907009v2
       \endverb
     \endentry
+    \entry{Koch_16}{article}{}
+      \true{moreauthor}
+      \name{author}{1}{}{%
+        {{hash=bde4db3430ff6f578a4358224bece0ac}{Koch}{K\bibinitperiod}{Christof}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ea6964f79faf9c62569c6bf72bd25ee7}
+      \strng{fullhash}{ea6964f79faf9c62569c6bf72bd25ee7}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat Rev Neurosci}
+      \field{title}{Neural correlates of consciousness: progress and problems}
+      \field{urlday}{11}
+      \field{urlmonth}{07}
+      \field{urlyear}{2016}
+      \field{volume}{17}
+      \field{year}{2016}
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/nrn.2016.22
+      \endverb
+    \endentry
     \entry{Tononi_08}{article}{}
       \name{author}{1}{}{%
         {{hash=f9ce8131c11c545dbdc50a80a8ddd9e1}{Tononi}{T\bibinitperiod}{Giulio}{G\bibinitperiod}{}{}{}{}}%
@@ -111,13 +133,31 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biol. Bull.}
       \field{title}{Consciousness as Integrated Information: a Provisional Manifesto}
-      \field{urlday}{29}
-      \field{urlmonth}{06}
+      \field{urlday}{11}
+      \field{urlmonth}{07}
       \field{urlyear}{2016}
       \field{volume}{215}
       \field{year}{2008}
       \verb{url}
       \verb http://www.biolbull.org/content/215/3/216.full
+      \endverb
+    \endentry
+    \entry{Tegmark_15_short}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b9b3c445e1013a97fc6318e06799b37b}{Tegmark}{T\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b9b3c445e1013a97fc6318e06799b37b}
+      \strng{fullhash}{b9b3c445e1013a97fc6318e06799b37b}
+      \field{sortinit}{0}
+      \field{sortinithash}{990108227b3316c02842d895999a0165}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{ArXiv e-prints}
+      \field{title}{Consciousness as a State of Matter}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb 1405.0493v2
       \endverb
     \endentry
     \entry{Zeh_00}{article}{}
